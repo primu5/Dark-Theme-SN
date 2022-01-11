@@ -1,7 +1,7 @@
 :root {
   --foreground-color: #f8f8f2;
   --background-color: #141313;
-  --highlight-color: var(--purple);
+  --highlight-color: var(--green);
   --border-color: #6272a4;
   --neutral-contrast: #44475a;
   --neutral: #22201f;
