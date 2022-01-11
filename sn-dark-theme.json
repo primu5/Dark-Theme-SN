@@ -12,9 +12,9 @@
   "thumbnail_url": "https://raw.githubusercontent.com/ilindaniel/sn-theme-evernote-light/master/preview.png",
   "dock_icon": {
     "type": "circle",
-    "background_color": "#bd93f9",
-    "foreground_color": "#bd93f9",
-    "border_color": "#bd93f9"
+    "background_color": "#42a6a1",
+    "foreground_color": "#42a6a1",
+    "border_color": "#42a6a1"
   },
   "statusBar": "dark-content"
 }
