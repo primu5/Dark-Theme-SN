@@ -32,6 +32,7 @@
   --sn-stylekit-editor-foreground-color: var(--sn-stylekit-foreground-color);
   --sn-stylekit-background-color: var(--background-color);
   --sn-stylekit-foreground-color: var(--foreground-color);
+  --sn-stylekit-grey-5: var(--cyan);
   --sn-stylekit-border-color: var(--neutral);
   --sn-stylekit-contrast-background-color: var(--neutral);
   --sn-stylekit-contrast-foreground-color: var(--foreground-color);
